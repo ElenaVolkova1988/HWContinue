@@ -1,0 +1,15 @@
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\bin\Debug\net6.0\HomeWork8.exe
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\bin\Debug\net6.0\HomeWork8.deps.json
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\bin\Debug\net6.0\HomeWork8.runtimeconfig.json
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\bin\Debug\net6.0\HomeWork8.dll
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\bin\Debug\net6.0\HomeWork8.pdb
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\obj\Debug\net6.0\HomeWork8.csproj.AssemblyReference.cache
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\obj\Debug\net6.0\HomeWork8.GeneratedMSBuildEditorConfig.editorconfig
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\obj\Debug\net6.0\HomeWork8.AssemblyInfoInputs.cache
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\obj\Debug\net6.0\HomeWork8.AssemblyInfo.cs
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\obj\Debug\net6.0\HomeWork8.csproj.CoreCompileInputs.cache
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\obj\Debug\net6.0\HomeWork8.dll
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\obj\Debug\net6.0\refint\HomeWork8.dll
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\obj\Debug\net6.0\HomeWork8.pdb
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\obj\Debug\net6.0\HomeWork8.genruntimeconfig.cache
+\\srv03\RFolders$\замглавбух\Desktop\HomeWork8\obj\Debug\net6.0\ref\HomeWork8.dll
